@@ -3,9 +3,9 @@ import random
 
 
 PORT=9999
-client_ip="127.0.0.1"
+server_ip="127.0.0.1"
 
-server_ip=client_ip
+
 ADDR=(server_ip, PORT)
 
 # Step-1
